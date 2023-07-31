@@ -1,0 +1,31 @@
+{
+    "products": [
+        {
+            "id":100001,
+            "name":"tis id a dheufh jhhs huhf",
+            "price":29,
+            "in_stock":true
+        },
+        {
+            "id":100002,
+            "name":"tis id a dheufh jhhs bsioi w ae wiejqw ojoi huhf",
+            "price":39,
+            "in_stock":true
+        },{
+            "id":100003,
+            "name":"tis id a dheufh  jj ksjaam kaj cnywooio joeo jhhs huhf",
+            "price":59,
+            "in_stock":true
+        },{
+            "id":100004,
+            "name":"tis id a dheufh fhfj aj d rb c jhhs huhf",
+            "price":99,
+            "in_stock":true
+        },{
+            "id":100005,
+            "name":"tis id a dheufh jhhs huhf",
+            "price":199,
+            "in_stock":true
+        }
+    ]
+}
